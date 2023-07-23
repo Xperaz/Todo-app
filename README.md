@@ -5,5 +5,5 @@ Todo-App using react with typescript
 
 ```
   npm install
-  
+  npm run dev
 ```
